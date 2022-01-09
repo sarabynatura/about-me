@@ -9,13 +9,15 @@
 
 body {
     /*background: linear-gradient(to right, blue, rgba(255, 255, 255, 0.596), green);*/
-    /*background: linear-gradient(70deg, rgb(241, 170, 15), rgb(255, 255, 255));*/
-    background: linear-gradient(to right,rgb(241, 170, 15), rgb(180, 155, 9), rgb(226, 233, 133));
+    /*background: linear-gradient(70deg, rgb(241, 170, 15), rgb(255, 255, 255));
+    background: linear-gradient(to right,rgb(238, 89, 139), rgb(233, 134, 172),rgb(238, 89, 139));*/
+    background: linear-gradient(to right,rgb(238, 89, 139), rgb(233, 134, 172), rgb(223, 177, 191));
 }
 
 .form-registrar {
     width: 40%;
     /*background: #24303c;*/
+    background: linear-gradient(to right,rgb(241, 170, 15), rgb(180, 155, 9), rgb(226, 233, 133));
     padding: 30px;
     margin: auto;
     margin-top: 100px;
@@ -74,7 +76,7 @@ body {
     padding: 10px;
     border-radius: 4px;
     margin-bottom: 16px;
-    border: 1px solid #1f53c5;
+    border: 2px solid rgb(238, 89, 139);
     font-family: 'calibrí', cursive;
     font-size: 18px;
     text-align: center;
